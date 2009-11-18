@@ -1,0 +1,4 @@
+h2 {margin-bottom:0}
+p {margin:0 0 1em 0}
+.expandable  {padding-left:20px; background:transparent url(expand2.gif) no-repeat left center; cursor:pointer}
+.collapsable {padding-left:20px; background:transparent url(collapse2.gif) no-repeat left center; cursor:pointer}
