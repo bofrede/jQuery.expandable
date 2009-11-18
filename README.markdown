@@ -9,3 +9,7 @@ Installation:
 &lt;script src="jQuery.expandable.js" type="text/javascript"&gt;&lt;/script&gt;
 
 See the test/index.html file for a demo.
+
+License:
+--------
+This software is published under the MIT license, included in the file LICENSE.
