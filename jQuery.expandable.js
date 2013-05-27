@@ -1,8 +1,8 @@
 /*jslint sloppy: true */
-/*global jQuery: false, document: false */
-/* Copyright 2008-2013 BoFrederiksen. */
+/*global jQuery: false */
+/* Copyright 2008-2013 Bo Frederiksen. */
 
-jQuery(document).ready(function () {
+(function () {
     function toggle() {
         jQuery(this).next().toggle();
         if ('none' === jQuery(this).next().css('display')) {
@@ -19,4 +19,4 @@ jQuery(document).ready(function () {
     exps.click(toggle);
     cols.next().show();
     cols.click(toggle);
-});
+}());
