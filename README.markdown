@@ -1,14 +1,14 @@
-jQuery.expandable
-=================
+# jQuery.expandable
+
 Simple text paragraph expanding for jQuery.
-  
-Installation:
--------------
+
+## Installation:
+
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
     <script src="jQuery.expandable.js" type="text/javascript"></script>
 
 See the test/index.html file for a demo.
 
-License:
---------
-This software is published under the MIT license, included in the file LICENSE.
+## License:
+
+This software is published under the MIT license, included in the file LICENSE.markdown
